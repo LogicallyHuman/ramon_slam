@@ -18,7 +18,7 @@
 	<arg name="use_rviz"	      default="true"/>
 	<arg name="use_tf"	        default="true"/>
 	<!-- <arg name="BagRate"	      default="0.01"/> -->
-	<arg name="BagRate"	      default="0.1"/>
+	<arg name="BagRate"	      default="1"/>
 	<arg name="StdDev"	      default="0.01"/>
 	<!-- <arg name="StdDev"	      default="0.05"/> -->
 
